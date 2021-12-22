@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/blog/*"
+  to = "https://esbuildtest.superblog.cloud/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/_elderjs/*"
+  to = "https://esbuildtest.superblog.cloud/_elderjs/:splat"
+  status = 200
